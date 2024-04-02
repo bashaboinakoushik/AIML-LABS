@@ -20,3 +20,8 @@
 
 
 [Lab-8]  (https://github.com/bashaboinakoushik/AIML-LABS/blob/main/Lab_08.ipynb)
+
+
+[Lab-9]  (https://github.com/bashaboinakoushik/AIML-LABS/blob/main/Lab_09.ipynb)
+
+
