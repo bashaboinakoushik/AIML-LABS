@@ -25,3 +25,4 @@
 [Lab-9](https://github.com/bashaboinakoushik/AIML-LABS/blob/main/Lab_09.ipynb)
 
 
+[Lab-10](https://github.com/bashaboinakoushik/AIML-LABS/blob/main/Lab_10.ipynb)
